@@ -1,0 +1,366 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4CB57F742F8A31440042DC0B /* bhangra_anjali.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4CB57F712F8A31440042DC0B /* bhangra_anjali.mp4 */; };
+		4CB57F752F8A31440042DC0B /* kutthu_savvy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4CB57F732F8A31440042DC0B /* kutthu_savvy.mp4 */; };
+		4CB57F762F8A31440042DC0B /* hiphop_savvy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4CB57F722F8A31440042DC0B /* hiphop_savvy.mp4 */; };
+		4CB57F7E2F8A34EA0042DC0B /* reference_video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4CB57F7D2F8A34EA0042DC0B /* reference_video.mp4 */; };
+		4CB57FBC2F8AB7AB0042DC0B /* kathak_anjali.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4CB57FBB2F8AB7AB0042DC0B /* kathak_anjali.mp4 */; };
+		4CB57FBD2F8AB7AB0042DC0B /* contemp_anjali.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4CB57FBA2F8AB7AB0042DC0B /* contemp_anjali.mp4 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4CB57F532F8A18650042DC0B /* DanceApp(iPhone).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DanceApp(iPhone).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CB57F712F8A31440042DC0B /* bhangra_anjali.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bhangra_anjali.mp4; sourceTree = "<group>"; };
+		4CB57F722F8A31440042DC0B /* hiphop_savvy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = hiphop_savvy.mp4; sourceTree = "<group>"; };
+		4CB57F732F8A31440042DC0B /* kutthu_savvy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = kutthu_savvy.mp4; sourceTree = "<group>"; };
+		4CB57F7D2F8A34EA0042DC0B /* reference_video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = reference_video.mp4; sourceTree = "<group>"; };
+		4CB57FBA2F8AB7AB0042DC0B /* contemp_anjali.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = contemp_anjali.mp4; sourceTree = "<group>"; };
+		4CB57FBB2F8AB7AB0042DC0B /* kathak_anjali.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = kathak_anjali.mp4; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4CB57F552F8A18650042DC0B /* DanceApp(iPhone) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "DanceApp(iPhone)";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4CB57F502F8A18650042DC0B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4CB57F4A2F8A18650042DC0B = {
+			isa = PBXGroup;
+			children = (
+				4CB57F552F8A18650042DC0B /* DanceApp(iPhone) */,
+				4CB57F712F8A31440042DC0B /* bhangra_anjali.mp4 */,
+				4CB57F7D2F8A34EA0042DC0B /* reference_video.mp4 */,
+				4CB57F722F8A31440042DC0B /* hiphop_savvy.mp4 */,
+				4CB57F732F8A31440042DC0B /* kutthu_savvy.mp4 */,
+				4CB57FBA2F8AB7AB0042DC0B /* contemp_anjali.mp4 */,
+				4CB57FBB2F8AB7AB0042DC0B /* kathak_anjali.mp4 */,
+				4CB57F542F8A18650042DC0B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4CB57F542F8A18650042DC0B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4CB57F532F8A18650042DC0B /* DanceApp(iPhone).app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4CB57F522F8A18650042DC0B /* DanceApp(iPhone) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4CB57F5E2F8A18660042DC0B /* Build configuration list for PBXNativeTarget "DanceApp(iPhone)" */;
+			buildPhases = (
+				4CB57F4F2F8A18650042DC0B /* Sources */,
+				4CB57F502F8A18650042DC0B /* Frameworks */,
+				4CB57F512F8A18650042DC0B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				4CB57F552F8A18650042DC0B /* DanceApp(iPhone) */,
+			);
+			name = "DanceApp(iPhone)";
+			packageProductDependencies = (
+			);
+			productName = "DanceApp(iPhone)";
+			productReference = 4CB57F532F8A18650042DC0B /* DanceApp(iPhone).app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4CB57F4B2F8A18650042DC0B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					4CB57F522F8A18650042DC0B = {
+						CreatedOnToolsVersion = 26.0;
+					};
+				};
+			};
+			buildConfigurationList = 4CB57F4E2F8A18650042DC0B /* Build configuration list for PBXProject "DanceApp(iPhone)" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4CB57F4A2F8A18650042DC0B;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 4CB57F542F8A18650042DC0B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4CB57F522F8A18650042DC0B /* DanceApp(iPhone) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4CB57F512F8A18650042DC0B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CB57F7E2F8A34EA0042DC0B /* reference_video.mp4 in Resources */,
+				4CB57F742F8A31440042DC0B /* bhangra_anjali.mp4 in Resources */,
+				4CB57FBC2F8AB7AB0042DC0B /* kathak_anjali.mp4 in Resources */,
+				4CB57FBD2F8AB7AB0042DC0B /* contemp_anjali.mp4 in Resources */,
+				4CB57F752F8A31440042DC0B /* kutthu_savvy.mp4 in Resources */,
+				4CB57F762F8A31440042DC0B /* hiphop_savvy.mp4 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4CB57F4F2F8A18650042DC0B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		4CB57F5C2F8A18660042DC0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4CB57F5D2F8A18660042DC0B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4CB57F5F2F8A18660042DC0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HK62K3PV2Y;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "DanceApp-iPhone--Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Veya;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "at.DanceApp-iPhone-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4CB57F602F8A18660042DC0B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HK62K3PV2Y;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "DanceApp-iPhone--Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Veya;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "at.DanceApp-iPhone-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4CB57F4E2F8A18650042DC0B /* Build configuration list for PBXProject "DanceApp(iPhone)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CB57F5C2F8A18660042DC0B /* Debug */,
+				4CB57F5D2F8A18660042DC0B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4CB57F5E2F8A18660042DC0B /* Build configuration list for PBXNativeTarget "DanceApp(iPhone)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CB57F5F2F8A18660042DC0B /* Debug */,
+				4CB57F602F8A18660042DC0B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4CB57F4B2F8A18650042DC0B /* Project object */;
+}
