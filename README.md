@@ -1,8 +1,7 @@
-# Veya 💃
+# Veya
 
 **An AI-powered dance coaching platform: practice choreography and get personalized feedback on your technique.**
-
-🏆 **Best Use of Gemini API** · **Best Design** at Sprout GT Hackathon
+**Best Use of Gemini API** · **Best Design** at Sprout GT Hackathon
 
 <img width="557" height="305" alt="Screenshot 2026-10-17 at 2 48 27 PM" src="https://github.com/user-attachments/assets/692e540d-f3c7-4c7a-a5c0-2737b6530131" />
 
