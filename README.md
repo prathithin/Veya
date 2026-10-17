@@ -30,11 +30,7 @@ Veya streamlines choreography practice by turning a dancer's uploaded video into
 
 ## Screenshots
 <img width="558" height="284" alt="Screenshot 2026-10-17 at 2 51 50 PM" src="https://github.com/user-attachments/assets/9e0d70a7-1a3d-4fdd-90a7-94c993597ec3" />
-
-## Getting started
-1. Clone the repo and open the `.xcodeproj` in Xcode
-2. Add your Gemini API key: [describe where, e.g. a `Secrets.plist` that's in .gitignore]
-3. Build and run on an iPhone simulator or device
+https://devpost.com/software/veya
 
 ## Team
 - **Prathithi:** built the SwiftUI interface and Gemini integration for keyframe extraction, motion analysis, and timestamped feedback; UI/UX design and user personas
