@@ -1,10 +1,10 @@
-# Veya 💃
+# Veya
 
 **AI-powered dance coaching: get accuracy scores and timestamped feedback on your choreography, plus built-in stretching to prevent injuries.**
 
-🏆 **Best Design** · **MLH Best Use of Gemini API** at SproutGT (Apr 2026)
+**Best Design** · **MLH Best Use of Gemini API** at SproutGT (Apr 2026)
 
-[![Veya demo video](https://img.youtube.com/vi/ttDCLCY4abA/0.jpg)](https://www.youtube.com/watch?v=ttDCLCY4abA)
+[![Veya demo video](https://github.com/user-attachments/assets/63eb4275-aeaa-4358-acf3-e0f1fab6b878)](https://www.youtube.com/watch?v=ttDCLCY4abA)
 
 ▶️ [Watch the demo](https://www.youtube.com/watch?v=ttDCLCY4abA) · 📄 [Devpost](https://devpost.com/software/veya)
 
